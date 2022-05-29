@@ -122,7 +122,7 @@ function Home() {
             </div>
             
             <div className="container">
-                <form >
+               
                     <div className="row">
                         <div className="col-25">
                             <label >First Name</label>
@@ -162,7 +162,7 @@ function Home() {
                     <div className="row">
                         <input type="submit" value="Submit" />
                     </div>
-                </form>
+               
             </div>
 
 

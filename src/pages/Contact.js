@@ -41,7 +41,7 @@ function Contact() {
 
             </div>
             <div className="container">
-                <form >
+                
                     <div className="row">
                         <div className="col-25">
                             <label >First Name</label>
@@ -81,7 +81,7 @@ function Contact() {
                     <div className="row">
                         <input type="submit" value="Submit"/>
                     </div>
-                </form>
+              
             </div>
         </div>
     );
