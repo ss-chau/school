@@ -9,7 +9,7 @@ function Header() {
     return (
       <div >
       <nav className="navbar  navbar-light bg-white navpadding">
-                <Link className="navbar-brand brandcolor" to = '/'> Shree Ganesh Pandey Inter college Katghar</Link>
+                <Link className="navbar-brand brandcolor" to = '/'> Shree Ganesh Pandey Inter College Katghar</Link>
                 
                 <ul className="nav">
                     
