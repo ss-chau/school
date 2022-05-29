@@ -1,9 +1,12 @@
+import Header from "./Header";
+
 function Contact() {
     return (
-      <div >
-        gpic khajani
-      </div>
+        <div >
+            <Header />
+            contact
+        </div>
     );
-  }
-  
-  export default Contact;
+}
+
+export default Contact;

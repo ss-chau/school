@@ -1,9 +1,11 @@
+import Header from "./Header";
 
 
 function Home() {
     return (
       <div >
-        gpic khajani   nnnnnn
+          <Header/>
+        Home.js
       </div>
     );
   }

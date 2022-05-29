@@ -1,9 +1,12 @@
+import Header from "./Header";
+
 function Blog() {
     return (
-      <div >
-        gpic khajani
-      </div>
+        <div >
+            <Header />
+            Blog
+        </div>
     );
-  }
-  
-  export default Blog;
+}
+
+export default Blog;

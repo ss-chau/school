@@ -1,0 +1,9 @@
+.navpadding {
+    padding-left: 120px !important;
+    padding-right: 120px !important;
+    background: rgb(216, 230, 222) !important;
+}
+.brandcolor {
+    color : red !important;
+    font-size: 24px !important;
+}

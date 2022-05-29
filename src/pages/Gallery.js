@@ -1,9 +1,12 @@
+import Header from "./Header";
+
 function Gallery() {
     return (
-      <div >
-        gpic khajani
-      </div>
+        <div >
+            <Header />
+            Gallery
+        </div>
     );
-  }
-  
-  export default Gallery;
+}
+
+export default Gallery;
